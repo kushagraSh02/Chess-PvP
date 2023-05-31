@@ -6,3 +6,5 @@ A Traditional chess game that can be played between two players.
 This project was made for practicing and learning purposes.
 
 project inspiration: youtube/@codingspot
+
+<p><img src='snapshots/gameplay.png'></p>
